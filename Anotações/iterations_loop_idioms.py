@@ -6,4 +6,12 @@ def number():
             smallest = itervar
         print("Loop:", itervar, smallest)
     print("Smallest:", smallest)
-number()
+
+def number2():
+    small = None
+    print("Após:", small)
+    for intervalo in [4, 12, 55, 33, 66, 101]:
+        if small is None or small < intervalo:
+            small = intervalo
+        print(intervalo, small)
+number2()
