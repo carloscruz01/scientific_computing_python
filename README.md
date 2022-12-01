@@ -1,2 +1,2 @@
-### O repositório irá conter todas as minhas anotações refete à aula e prática utilizando os conceitos propostos.
+### O repositório irá conter todas as minhas anotações referente à aula e prática utilizando os conceitos propostos.
 
